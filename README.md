@@ -1,2 +1,6 @@
 # ft_get_next_line
-Function that reads a file until a newline
+
+42 Project:
+
+Function that takes in a file as input and reads the file up to a new line (\n).
+
